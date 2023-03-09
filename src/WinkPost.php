@@ -82,6 +82,7 @@ class WinkPost extends AbstractWinkModel
         'meta' => 'array',
         'published' => 'boolean',
         'markdown' => 'boolean',
+        'publish_date' => 'datetime',
     ];
 
     /**
